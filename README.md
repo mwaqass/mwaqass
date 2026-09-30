@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:ff2d20&height=220&section=header&text=Muhammad%20Waqas&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Senior%20PHP%20%2F%20Laravel%20Developer%20%C2%B7%20Team%20Lead%20%C2%B7%20SaaS%20%26%20APIs&descSize=18&descAlignY=54&animation=fadeIn" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:ff2d20&height=220&section=header&text=Muhammad%20Waqas&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Senior%20PHP%20%2F%20Laravel%20Developer%20%C2%B7%20Team%20Lead%20%C2%B7%20SaaS%20and%20APIs&descSize=18&descAlignY=54&animation=fadeIn" alt="" />
 
 <div align="center">
 
