@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF2D20&background=1A1B27&center=true&vCenter=true&width=680&height=60&lines=Senior+PHP+%2F+Laravel+Developer+%26+Team+Lead;Multi-tenant+SaaS%2C+REST+%26+GraphQL+APIs%2C+microservices;AWS+%C2%B7+Docker+%C2%B7+CI%2FCD+pipelines;Platforms+serving+10%2C000%2B+active+users)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF2D20&background=1A1B27&center=true&vCenter=true&width=760&height=60&lines=Senior+PHP+%2F+Laravel+Developer+%26+Team+Lead;Multi-tenant+SaaS+%C2%B7+REST+%26+GraphQL+APIs;Microservices+on+Laravel%2C+Node.js+%26+AWS;AWS+%C2%B7+Docker+%C2%B7+CI%2FCD+pipelines;Platforms+serving+10%2C000%2B+active+users)](https://git.io/typing-svg)
 
 <br/>
 
